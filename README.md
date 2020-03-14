@@ -1,2 +1,2 @@
-# WPF-Animated-Loading-Spinner
+# WPFAnimatedLoadingSpinner
 A simple animeted loading spinner in WPF / C#.
