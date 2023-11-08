@@ -3,8 +3,6 @@ A simple animeted loading spinner in WPF / C#.
 
 ![Loading animation gif](http://blog.trustmycode.net/wp-content/uploads/2019/03/loadingAnimation.gif)
 
-Read my [blog post](http://blog.trustmycode.net/?p=133) for more information!
-
 
 ### How to use:
 
